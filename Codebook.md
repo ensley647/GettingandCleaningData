@@ -1,12 +1,12 @@
 
 ## Data Set Code Book: Human Activity Recognition Using Smartphones data set  
 
-* Variable Name: subject   
+Variable Name: subject   
 * Type: Integer  
 * Values: 1 - 30  
 * Comments: Subject participant  
 
-* Variable Name: activitydescription    
+Variable Name: activitydescription    
 * Type: Character   
 * Values: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS    
 * Comments: Description of the activity    
