@@ -11,7 +11,7 @@
 * Values: LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPSTAIRS    
 * Comments: Description of the activity    
 
-###Sensor Data:
+### Sensor Data:
 
 *(Note that variables prefixed by “t” are time-domain signals captured at a constant rate of 50 Hz and variables prefixed by “f” are frequency domain signals using a Fast Fourier Transformation.)
 
